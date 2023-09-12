@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ##  🛠️ Cards
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=Yjason-k&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/Yjason-K)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomgom22)](https://solved.ac/gomgom22)
+[![Yjason-K github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yjason-K&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact)](https://github.com/Yjason-K)
+
