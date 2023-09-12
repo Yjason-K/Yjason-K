@@ -34,3 +34,7 @@ Here are some ideas to get you started:
   <br/>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> ec2와 RDS를 연결하여 백엔드 서버를 구성하고 S3, Cloudfront, Router53를 사용하여 https배포를 가능하게 합니다.
 </div>
+
+##  🛠️ Cards
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=Yjason-k&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/Yjason-K)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomgom22)](https://solved.ac/gomgom22)
